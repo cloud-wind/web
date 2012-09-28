@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>无标题文档</title>
+<script type="text/javascript" src="js/jquery-1.4.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$(".flip").click(function(){
+			$(".panel").slideToggle("slow");
+		});
+	});
+</script>
+<style type="text/css">
+	div.panel,p.flip{
+		margin: 0px;
+		padding: 5px;
+		text-align: center;
+		background: #e5eecc;
+		border: solid 1px #c3c3c3;
+	}
+	div.panel{
+		height: 120px;
+		display:none;
+	}
+</style>
+</head>
+
+<body>
+	<div class="panel">
+		<p>Because time is baluable, we deliver quick and easy learning.</p>
+		<p>At W3CSchool, you can study everyting you need to learn, in an accessible and handy format.</p>
+	</div>
+	<p class="flip">Show/Hide panel</p>
+</body>
+</html>
