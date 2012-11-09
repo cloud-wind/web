@@ -1,0 +1,133 @@
+
+:focus {
+    outline: 0 none;
+}
+a:active {
+    outline: medium none;
+}
+body {
+    background: none repeat scroll 0 0 white;
+    color: black;
+    line-height: 1;
+}
+ol, ul {
+    list-style: none outside none;
+}
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+    content: "";
+}
+blockquote, q {
+    quotes: "" "";
+}
+body {
+    background: url("../img/background.png") repeat scroll center top #EFEFEF;
+    color: #434343;
+    font: 62.5%/1.5 Helvetica,Arial,sans-serif;
+    letter-spacing: 0;
+    padding: 20px 0;
+    position: relative;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+#container {
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    width: 980px;
+    z-index: 0;
+}
+#example {
+    height: 280px;
+    position: relative;
+    width: 980px;
+}
+#ribbon {
+    left: -15px;
+    position: absolute;
+    top: -3px;
+    z-index: 500;
+}
+#frame {
+    height: 341px;
+    left: -80px;
+    position: absolute;
+    top: -3px;
+    width: 980px;
+    z-index: 0;
+}
+#slides {
+    left: 4px;
+    position: absolute;
+    top: 15px;
+    z-index: 100;
+}
+.slides_container {
+    display: none;
+    overflow: hidden;
+    position: relative;
+    width: 980px;
+}
+.slides_container a {
+    display: block;
+    height: 260px;
+    width: 980px;
+}
+.slides_container a img {
+    display: block;
+}
+#slides .next, #slides .prev {
+    display: block;
+    height: 43px;
+    left: -39px;
+    position: absolute;
+    top: 107px;
+    width: 24px;
+    z-index: 101;
+}
+#slides .next {
+    left: 585px;
+}
+.pagination {
+    margin: 0 auto;
+    width: 100px;
+}
+.pagination li {
+    float: left;
+    list-style: none outside none;
+    margin: 0 1px;
+}
+.pagination li a {
+    background-image: url("../img/pagination.png");
+    background-position: 0 0;
+    display: block;
+    float: left;
+    height: 0;
+    overflow: hidden;
+    padding-top: 12px;
+    width: 12px;
+}
+.pagination li.current a {
+    background-position: 0 -12px;
+}
+#footer {
+    border-top: 1px solid #DFDFDF;
+    margin-top: 9px;
+    padding: 4.5px 0 18px;
+    text-align: center;
+    width: 580px;
+}
+#footer p {
+    font-size: 1em;
+    margin: 4.5px 0;
+}
+a:link, a:visited {
+    color: #599100;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color: #599100;
+    text-decoration: underline;
+}

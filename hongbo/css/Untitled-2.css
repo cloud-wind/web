@@ -1,0 +1,360 @@
+/* CSS Document */
+HTML {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+				  
+
+A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+IMG {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+SELECT {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+DIV {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+SPAN {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+TH {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+TD {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+DT {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+DD {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+H1 {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+H2 {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+H3 {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+H4 {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+H5 {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+H6 {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+EM {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+STRONG {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+I {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+A {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+B {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+A {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+P {
+	WORD-BREAK: break-all; WORD-WRAP: break-word
+}
+IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+DL {
+	LIST-STYLE-TYPE: none
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}
+TABLE {
+	MARGIN-LEFT: auto; MARGIN-RIGHT: auto; BACKGROUND-COLOR: #ffffff
+}
+BODY {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, "宋体"
+}
+TABLE {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, "宋体"
+}
+INPUT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, "宋体"
+}
+SELECT {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, "宋体"
+}
+TEXTAREA {
+	FONT-SIZE: 12px; FONT-FAMILY: Arial, "宋体"
+}
+.clear {
+	CLEAR: both; FONT-SIZE: 0px; LINE-HEIGHT: 0px; HEIGHT: 0px
+}
+.underline {
+	TEXT-DECORATION: none
+}
+BODY {
+	COLOR: #4c4c4c
+}
+A {
+	COLOR: #4c4c4c; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #012fa0; TEXT-DECORATION: underline
+}
+.body_line {
+	BACKGROUND-POSITION: center 50%; BACKGROUND-IMAGE: url("body_line.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/body_line.jpg*/); BACKGROUND-REPEAT: repeat-y; BACKGROUND-COLOR: #EEEDE9
+}
+.bg_nav {
+	BACKGROUND-IMAGE: url("bg_nav.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_nav.jpg*/); LINE-HEIGHT: 28px; BACKGROUND-REPEAT: no-repeat
+}
+.bg_notice {
+	BACKGROUND-IMAGE: url("bg_notice_center.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_notice_center.jpg*/); BACKGROUND-REPEAT: repeat-x
+}
+.bg_title_about_us {
+	BACKGROUND-IMAGE: url("bg_title_about_us.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title_about_us.jpg*/); BACKGROUND-REPEAT: repeat-x
+}
+.bg_title_about_us SPAN {
+	PADDING-RIGHT: 15px; PADDING-LEFT: 20px; FLOAT: left
+}
+.bg_title_case {
+	PADDING-RIGHT: 12px; BACKGROUND-POSITION: 50% bottom; PADDING-LEFT: 12px; BACKGROUND-IMAGE: url("bg_business.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_business.jpg*/); LINE-HEIGHT: 200%; PADDING-TOP: 23px; BACKGROUND-REPEAT: no-repeat
+}
+.bg_nav_foot {
+	BACKGROUND-IMAGE: url("nav_foot_m.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/nav_foot_m.jpg*/); BACKGROUND-REPEAT: repeat-x
+}
+.bg_display_left {
+	BORDER-RIGHT: #f2f2f2 1px solid; BACKGROUND-POSITION: center bottom; BORDER-LEFT: #f2f2f2 1px solid; WIDTH: 240px; BACKGROUND-REPEAT: no-repeat
+}
+.bg_display_left_line {
+	BACKGROUND-IMAGE: url("bg_display_left.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_display_left.jpg*/); BACKGROUND-REPEAT: repeat-y
+}
+.border_product {
+	BORDER-RIGHT: #a3a3a3 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #a3a3a3 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; BORDER-LEFT: #a3a3a3 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #a3a3a3 1px solid
+}
+.border_bk {
+	BORDER-RIGHT: #eaeaec 1px solid; BORDER-LEFT: #eaeaec 1px solid; BORDER-BOTTOM: #eaeaec 1px solid
+}
+.border_bk2 {
+	BORDER-RIGHT: #e0e0e0 1px solid; BORDER-TOP: #e0e0e0 1px solid; BORDER-LEFT: #e0e0e0 1px solid; BORDER-BOTTOM: #e0e0e0 1px solid
+}
+.text_about {
+	PADDING-RIGHT: 25px; PADDING-BOTTOM: 10px; LINE-HEIGHT: 200%; TEXT-ALIGN: left
+}
+.text_display {
+	PADDING-RIGHT: 28px; PADDING-LEFT: 28px; PADDING-BOTTOM: 30px; COLOR: #192026; LINE-HEIGHT: 190%; PADDING-TOP: 25px; TEXT-ALIGN: left
+}
+.text_human {
+	PADDING-RIGHT: 46px; PADDING-LEFT: 46px; PADDING-BOTTOM: 33px; LINE-HEIGHT: 200%; PADDING-TOP: 6px; TEXT-ALIGN: left
+}
+.text_message {
+	PADDING-RIGHT: 46px; PADDING-LEFT: 18px; PADDING-BOTTOM: 33px; LINE-HEIGHT: 200%; PADDING-TOP: 6px; TEXT-ALIGN: left
+}
+.text_copy {
+	PADDING-BOTTOM: 32px; LINE-HEIGHT: 170%; PADDING-TOP: 15px
+}
+.text_contact {
+	PADDING-LEFT: 5px; PADDING-BOTTOM: 54px; COLOR: #31363a; LINE-HEIGHT: 200%; PADDING-TOP: 26px; TEXT-ALIGN: left
+}
+.list1 {
+	COLOR: #1b3e86
+}
+.list1 A {
+	FONT-WEIGHT: bold; COLOR: #1b3e86; TEXT-DECORATION: underline
+}
+.list1 A:hover {
+	COLOR: #4c4c4c; TEXT-DECORATION: none
+}
+.list2 {
+	PADDING-LEFT: 34px; LINE-HEIGHT: 200%; PADDING-TOP: 21px
+}
+.list3 {
+	LINE-HEIGHT: 200%
+}
+.list3 SPAN {
+	DISPLAY: inline-block; FLOAT: right
+}
+.list_left {
+	PADDING-BOTTOM: 80px; LINE-HEIGHT: 240%; PADDING-TOP: 22px; TEXT-ALIGN: center
+}
+
+.list_left A {
+	BACKGROUND-POSITION: center 50%; DISPLAY: block; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url("bg_title1.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title1.jpg*/); PADDING-BOTTOM: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 28px
+}
+.list_left A:hover {
+	BACKGROUND-IMAGE: url("bg_title2.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title2.jpg*/); COLOR: #ffffff; TEXT-DECORATION: none
+}
+.list_left A.position {
+	BACKGROUND-IMAGE: url("bg_title2.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title2.jpg*/); COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+.list_left1 {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 240%; PADDING-TOP: 12px; TEXT-ALIGN: center
+}
+.list_left1 A {
+	BACKGROUND-POSITION: center 50%; DISPLAY: block; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url("bg_title1.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title1.jpg*/); PADDING-BOTTOM: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 28px
+}
+.list_left1 A:hover {
+	BACKGROUND-IMAGE: url("bg_title2.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title2.jpg*/); COLOR: #ffffff; TEXT-DECORATION: none
+}
+.list_left1 A.position {
+	BACKGROUND-IMAGE: url("bg_title2.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title2.jpg*/); COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+
+.list_left2 {
+	 LINE-HEIGHT: 240%;  TEXT-ALIGN: center
+}
+.list_left2 A {
+	BACKGROUND-POSITION: center 50%; DISPLAY: block; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url("bg_title1.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title1.jpg*/); PADDING-BOTTOM: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 28px
+}
+.list_left2 A:hover {
+	BACKGROUND-IMAGE: url("bg_title2.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title2.jpg*/); COLOR: #ffffff; TEXT-DECORATION: none
+}
+.list_left2 A.position {
+	BACKGROUND-IMAGE: url("bg_title2.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_title2.jpg*/); COLOR: #ffffff; TEXT-DECORATION: none
+}
+
+
+.list_news {
+	PADDING-BOTTOM: 6px; PADDING-TOP: 16px; TEXT-ALIGN: left
+}
+.list_news .bg_list1 {
+	LINE-HEIGHT: 55px
+}
+.list_news LI {
+	PADDING-LEFT: 20px
+}
+.list_news .bg_list {
+	LINE-HEIGHT: 32px; BACKGROUND-COLOR: #f3f3f5
+}
+.list_news A {
+	COLOR: #31363a
+}
+.list_news A:hover {
+	COLOR: #012fa0
+}
+.list_news SPAN {
+	PADDING-RIGHT: 30px; FONT-SIZE: 11px; FLOAT: right; COLOR: #bebebe; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.more_case {
+	PADDING-RIGHT: 20px; FLOAT: right; PADDING-BOTTOM: 15px; PADDING-TOP: 10px
+}
+.more_about {
+	PADDING-LEFT: 130px
+}
+.title_display {
+	COLOR: #495054
+}
+.title_display A {
+	COLOR: #495054
+}
+.title_display A:hover {
+	COLOR: #012fa0
+}
+.title_display SPAN {
+	PADDING-RIGHT: 18px; FLOAT: right
+}
+.title_human {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url("title_human_m.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/title_human_m.jpg*/); COLOR: #31363a; BACKGROUND-REPEAT: repeat-x
+}
+.title_zxly {
+	FONT-WEIGHT: bold; COLOR: #31363a; BACKGROUND-COLOR: #efefef; TEXT-ALIGN: left
+}
+.table_left {
+	BACKGROUND-POSITION: center bottom; BACKGROUND-IMAGE: url("bg_display_bottom.jpg"/*tpa=http://www.code800.cn/Web2010/828/imgbeb/bg_display_bottom.jpg*/); VERTICAL-ALIGN: bottom; LINE-HEIGHT: 122px; BACKGROUND-REPEAT: no-repeat
+}
+.title_human SPAN {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px
+}
+.pic_product {
+	FLOAT: left; PADDING-BOTTOM: 10px; WIDTH: 175px; HEIGHT: 182px; TEXT-ALIGN: center
+}
+.pic_honor {
+	FLOAT: left; PADDING-BOTTOM: 10px; WIDTH: 233px; TEXT-ALIGN: center
+}
+.bt1 {
+	FONT-SIZE: 12px; COLOR: #6f6f6f; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none;
+
+	BORDER-RIGHT: #b7b7b7 1px solid; BORDER-TOP: #b7b7b7 1px solid; BORDER-LEFT: #b7b7b7 1px solid; BORDER-BOTTOM: #b7b7b7 1px solid; BACKGROUND-COLOR: #fff;
+}
+
