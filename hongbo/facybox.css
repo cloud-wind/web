@@ -47,7 +47,8 @@
 #facybox .close {
 	position: absolute;
 	top: 5px;
-	left: 0;
+	left: 615px;
+	*left: 600px;
 	display: block;
 	width: 30px;
 	height: 30px;
